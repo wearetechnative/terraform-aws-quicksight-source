@@ -1,4 +1,4 @@
-# Enabling AWS Cost and Usage Reports (CUR) with Terraform
+# Enabling AWS Cost and Usage Reports (CUR) with Terraform ![](https://img.shields.io/github/actions/workflow/status/wearetechnative/terraform-aws-quicksight-source/tflint.yaml?branch=main&style=plastic)
 
 This Terraform configuration enables AWS Cost and Usage Reports (CUR) by setting up an S3 bucket, necessary IAM roles and policies, and configuring the CUR report. The setup ensures that your CUR data is securely stored, replicated, and accessible for analysis.
 
